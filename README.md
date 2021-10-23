@@ -2,8 +2,8 @@
 
 I am a Full Stack Developer currently based in London.<br>
 I have a background in Literature, Tourism and Music.<b>
-When I'm not coding, I will be immersed in a book, playing the piano or travelling.<br>
-Brazil is my second home 🌴
+When I'm not coding, I will be immersed in a book, playing the piano or travelling. <br>
+Brazil is my second home 🌴 <br>
 
 - 🔭 I’m currently working on a personal project with React Native
 - 🌱 I’m currently learning Redux, Typescript and Testing with Jest
