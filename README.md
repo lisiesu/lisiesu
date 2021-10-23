@@ -16,10 +16,10 @@ Brazil is my second home 🌴 <br>
 ## 🚀 My Languages:
 
 <p align="center">
-<img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" height="60" style="vertical-align:top; margin:6px"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB7FFCrkZL139R_Sa41BlRZd2nxg3g47fioc21sqf2gc4yatb8Q1rOMdUWZwYLEz5CP-A&usqp=CAU" height="60" style="vertical-align:top; margin:6px" />
-<img src="https://ih1.redbubble.net/image.367014218.4385/farp,small,wall_texture,product,750x1000.u2.jpg"  height="60" style="vertical-align:top; margin:6px"/>
-<img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" height="60" style="vertical-align:top; margin:6px"/>
-<img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" height="60" style="vertical-align:top; margin:6px" />
-<img src="https://redux.js.org/img/redux-logo-landscape.png" height="60" style="vertical-align:top; margin:6px"/>
+<img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" height="80" style="vertical-align:top; margin:6px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB7FFCrkZL139R_Sa41BlRZd2nxg3g47fioc21sqf2gc4yatb8Q1rOMdUWZwYLEz5CP-A&usqp=CAU" height="80" style="vertical-align:top; margin:6px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZxVauwvK9ORMtJaQf1oRvmaZhAHhx3feXyaleyiYd3Q3BnFrtqAvkN9K2F069mfwEFQ&usqp=CAU"  height="80" style="vertical-align:top; margin:6px"/>
+<img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" height="80" style="vertical-align:top; margin:6px"/>
+<img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" height="80" style="vertical-align:top; margin:6px" />
+<img src="https://redux.js.org/img/redux-logo-landscape.png" height="80" style="vertical-align:top; margin:6px"/>
 </p>
