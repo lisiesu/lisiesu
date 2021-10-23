@@ -13,7 +13,7 @@ Brazil is my second home 🌴 <br>
 
 <lisie_su@yahoo.com.br>
 
-## 🚀 My Languages:
+## 🚀 My Languages & Tools:
 
 <p align="center">
 <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" height="80" style="vertical-align:top; margin:6px"/>
