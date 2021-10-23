@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Full Stack Developer currently based in London.<br>
-I have a background in Literature, Tourism and Music.<b>
+I have a background in Literature, Tourism and Music.<br>
 When I'm not coding, I will be immersed in a book, playing the piano or travelling. <br>
 Brazil is my second home 🌴 <br>
 
