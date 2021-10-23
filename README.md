@@ -22,4 +22,6 @@ Brazil is my second home 🌴 <br>
 <img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" height="80" style="vertical-align:top; margin:6px"/>
 <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" height="80" style="vertical-align:top; margin:6px" />
 <img src="https://redux.js.org/img/redux-logo-landscape.png" height="80" style="vertical-align:top; margin:6px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="80" style="vertical-align:top; margin:6px"/>
+<img src="https://ahana.io/wp-content/uploads/2021/04/postgresql-logo.png" height="80" style="vertical-align:top; margin:6px"/>
 </p>
