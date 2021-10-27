@@ -24,3 +24,5 @@ Brazil is my second home 🌴 <br>
 <img src="https://redux.js.org/img/redux-logo-landscape.png" height="80" style="vertical-align:top; margin:6px"/>
 <img src="https://ahana.io/wp-content/uploads/2021/04/postgresql-logo.png" height="80" style="vertical-align:top; margin:6px"/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisiesu)](https://github.com/anuraghazra/github-readme-stats)
