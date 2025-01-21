@@ -6,8 +6,8 @@ When I'm not coding, I will be immersed in a book, playing the piano or travelli
 Brazil is my second home 🌴 <br>
 
 - 🔭 I’m currently working on a personal project with React Native
-- 🌱 I’m currently learning Redux, Typescript and Testing with Jest
-- 💬 Ask me about skydiving
+- 🌱 I’m currently AWS and Machine Learning
+- 💬 Ask me about diving and skydiving
 
 ## 📫 How to reach me:
 
