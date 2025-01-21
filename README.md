@@ -11,7 +11,7 @@ Brazil is my second home 🌴 <br>
 
 ## 📫 How to reach me:
 
-<lisie_su@yahoo.com.br>
+<dev.aline.silva@gmail.com>
 
 ## 🚀 My Languages & Tools:
 
