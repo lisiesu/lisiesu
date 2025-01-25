@@ -6,7 +6,7 @@ When I'm not coding, I will be immersed in a book, playing the piano or travelli
 Brazil is my second home 🌴 <br>
 
 - 🔭 I’m currently working on a personal project with React Native
-- 🌱 I’m currently learnig AWS and Machine Learning
+- 🌱 I’m currently learning AWS and Machine Learning
 - 💬 Ask me about diving and skydiving
 
 ## 📫 How to reach me:
