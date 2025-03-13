@@ -23,6 +23,8 @@ Brazil is my second home 🌴 <br>
    <img src="https://redux.js.org/img/redux-logo-landscape.png" height="80" style="vertical-align:top; margin:6px"/>
    <img src="https://miro.medium.com/v2/resize:fit:1200/1*tFl-8wQUENETYLjX5mYWuA.png" height="80" style="vertical-align:top; margin:6px"/>
    <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png" height="80" style="vertical-align:top; margin:6px"/>
+   <img src="https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/66a47686d17c50595ab25075_AD_4nXef8kg1j8Ne3QwQ5VMAVaubMxxFEPvv4gFeYFtVv3S9OQtr9DUgSicnoU2ONDCCwi0wdX7z9So0gE1lLnsvAfzDtGfXYLhsJaLdSCiQU6MEoi0Wapsol5RWbNKBB6hQnIgqtzJ2-zWKrJQMUb2IocBFxK1_.png" height="80" style="vertical-align:top; margin:6px"/>
+   
 </p>
 <br>
 
