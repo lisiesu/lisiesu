@@ -27,6 +27,7 @@ Brazil is my second home 🌴 <br>
    <img src="https://blog.theodo.com/_astro/ts_logo.BstCNrTU_1Dbxpr.webp" height="80" style="vertical-align:top; margin:6px"/>
    <img src="https://s46486.pcdn.co/wp-content/uploads/2023/03/pasted-image-0-72.png" height="80" style="vertical-align:top; margin:6px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="80" style="vertical-align:top; margin:6px"/> 
+   <img src="https://graphqleditorcms.fra1.cdn.digitaloceanspaces.com/graphqleditorcms/graphql_page/graphql-1732132118455.png" height="80" style="vertical-align:top; margin:6px"/> 
 </p>
 <br>
 
