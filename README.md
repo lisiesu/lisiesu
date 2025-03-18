@@ -26,7 +26,7 @@ Brazil is my second home 🌴 <br>
    <img src="https://graphqleditorcms.fra1.cdn.digitaloceanspaces.com/graphqleditorcms/graphql_page/graphql-1732132118455.png" height="80" style="vertical-align:top; margin:6px"/> 
    <img src="https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/66a47686d17c50595ab25075_AD_4nXef8kg1j8Ne3QwQ5VMAVaubMxxFEPvv4gFeYFtVv3S9OQtr9DUgSicnoU2ONDCCwi0wdX7z9So0gE1lLnsvAfzDtGfXYLhsJaLdSCiQU6MEoi0Wapsol5RWbNKBB6hQnIgqtzJ2-zWKrJQMUb2IocBFxK1_.png" height="80" style="vertical-align:top; margin:6px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height="80" style="vertical-align:top; margin:6px"/>
-   <img src="https://s46486.pcdn.co/wp-content/uploads/2023/03/pasted-image-0-72.png" height="80" style="vertical-align:top; margin:6px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" height="80" style="vertical-align:top; margin:6px"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="80" style="vertical-align:top; margin:6px"/> 
 </p>
 <br>
